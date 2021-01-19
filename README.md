@@ -47,9 +47,6 @@ Quando estamos falando de projetos que rodam no navegador web do usuário, podem
 * O HTML é uma linguagem de marcação e não uma linguagem de programação
 * Um bom HTML precisa seguir boas práticas
 
-<!-- fim da lista -->
-A seguir falaremos de: estilo e comportamento
-
 ## Estilo: CSS
 <img src="https://openclipart.org/image/400px/174634" width="200">
 
