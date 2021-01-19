@@ -92,7 +92,7 @@ window.alert('Isso é JavaScript');
 
 ---
 
-* HTML, CSS e JS seguem especificações
+* HTML, CSS e JavaScript seguem especificações
 * Essas especificações são abertas e proporcionam um alto nível de liberdade para quem as utiliza
 * Com o tempo e a colaboração a comunidade de profissionais frontend cria conjuntos de boas práticas
 * Seguir uma especificação permite que o código seja entendido por máquinas
